@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @whotookAzimus, also known as Azimus.
+- 👋 Hi, I’m Azimus.
 - 👀 I’m interested in programming.
